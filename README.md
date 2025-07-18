@@ -4,6 +4,8 @@
 
 ### Formado em Análise e Desenvolvimento de Sistemas, atuando como Analista de Sistemas Jr com foco na migração de carreira para DevOps!
 
+Atualmente fazendo cursos voltados a área devops com utilização de docker, Kubernetes e Terraform, fazendo projeto junto a nuvem.
+
 ## Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jhowsantos1999/)
